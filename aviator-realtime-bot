@@ -1,0 +1,8 @@
+aviator-realtime-bot/
+│
+├── main.py           # Arquivo principal que roda o bot
+├── websocket_reader.py  # Conecta ao WebSocket e captura multiplicadores
+├── analyzer.py       # Lógica para analisar histórico e gerar sinais
+├── bankroll.py       # Gestão de banca
+├── requirements.txt  # Dependências
+└── README.md
